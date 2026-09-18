@@ -1,0 +1,32 @@
+{
+  "student": {
+    "target": "B2 (Goethe/telc) in 9 months",
+    "current_level": "A1.1",
+    "month": 1,
+    "week": 1,
+    "lesson": 1,
+    "started_at": "2026-09-11",
+    "last_active": "2026-09-11"
+  },
+  "roadmap": {
+    "month_1": "A1.1: Tovushlar, Alifbo, Sein/Haben, Shaxs olmoshlari, Fe'l tuslanishi, W-Fragen, Akkusativ boshlang'ich",
+    "month_2": "A1.2: Modal fe'llar, Trennbare Verben, Negation (nicht/kein), Egalik olmoshlari, A1 Yakuniy Mock Imtihon",
+    "month_3": "A2.1: Perfekt (o'tgan zamon), Dativ kelishigi, Dativ predloglari, Reflexivverben",
+    "month_4": "A2.2: Wechselpräpositionen, Bog'lovchilar (weil, dass, wenn), Komparativ/Superlativ, A2 Mock Imtihon",
+    "month_5": "B1.1: Passiv Präsens, Konjunktiv II (istak va xushmuomalalik), Ergash gaplar (obwohl, damit, um...zu)",
+    "month_6": "B1.2: Relativsätze (barcha kelishiklarda), Genitiv, Feste Nomen-Verb-Verbindungen (boshlang'ich), B1 Mock Imtihon",
+    "month_7": "B2.1: B2 Daraja: Nomen-Verb-Verbindungen, Partizip I va II sifat sifatida, Zweiteilige Konnektoren, B2 Redemittel",
+    "month_8": "B2.2: Passiv muqobillari (sein+zu, man kann), Konjunktiv I (ko'chirma gap), Ilmiy va rasmiy matnlar tahlili",
+    "month_9": "B2 Exam Mastery: Goethe-Zertifikat B2 / telc B2 to'liq 4 ko'nikma bo'yicha haqiqiy imtihon simulyatsiyalari"
+  },
+  "current_topic": {
+    "module": "1-oy, 1-hafta, 1-dars",
+    "title": "Kirish: Tovushlar/Alifbo, Salomlashish (Begrüßung) va O'zini tanishtirish (Sich vorstellen)",
+    "status": "starting"
+  },
+  "strengths": [],
+  "weaknesses": [],
+  "vocabulary_bank_count": 0,
+  "exam_scores": []
+}
+
